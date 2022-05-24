@@ -2,7 +2,7 @@
 
 ## Target
 
-Design a web page that will create a table dynamically based upon a [Provided](static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+ALIENS-R-REAL have collected all of the eye-witness reports to prove the extra-terrestrial menace has come to Earth. I need to Design a web page that will create a table dynamically based upon a [Provided Dataset](static/js/data.js), which can filte the table data for specific conditions. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
