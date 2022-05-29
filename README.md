@@ -4,7 +4,7 @@
 
 ALIENS-R-REAL have collected all of the eye-witness reports to prove the extra-terrestrial menace has come to Earth. I need to Design a web page that will create a table dynamically based upon a [Provided Dataset](static/js/data.js), which can filte the table data for specific conditions. <br/>
 
-[**Click Here**](https://ash-tao.github.io/javascript-challenge/) to find out how the web page looks like. <br/>
+[**Click Here**](https://ash-tao.github.io/AliensEyeWitness_Javascript/) to find out how the web page looks like. <br/>
 
 
 ## Step by Step Approch
