@@ -1,4 +1,4 @@
-# javascript-challenge
+# AliensEyeWitness_Javascript
 
 ## Target
 
